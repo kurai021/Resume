@@ -1,5 +1,5 @@
 
-## **Richard Armuelles Zeballos** 
+## Richard Armuelles Zeballos
 
 ---
 <p style="text-align:center;">
