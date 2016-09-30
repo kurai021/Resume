@@ -1,7 +1,8 @@
 
-## Richard Armuelles Zeballos
+# Richard Armuelles Zeballos
 
 ---
+
 <p style="text-align:center;">
 alexanderarmuelles@riseup.net<br>
 +507 6385-5846<br>
@@ -38,6 +39,7 @@ Award winning **Frontend web developer** with an eye for design. I enjoy helping
 
 ---
 ### Work and Volunteer Experience
+
 * **BlueTide IT Consulting** - Frontend web developer | 2015 - 2016
 
 Responsible for developing different websites for panamanian companies using tools such as Cactus (a static site generator based on Jinja2 with facilities like deploying on Amazon S3) including workflows via Git and using collaborative tools like Google for business and Slack.
