@@ -1,5 +1,6 @@
 
 ## **Richard Armuelles Zeballos** 
+
 ---
 <p style="text-align:center;">
 alexanderarmuelles@riseup.net<br>
@@ -34,6 +35,7 @@ Award winning **Frontend web developer** with an eye for design. I enjoy helping
 ### Languages
 * English: intermediate
 * Spanish: native
+
 ---
 ### Work and Volunteer Experience
 * **BlueTide IT Consulting** - Frontend web developer | 2015 - 2016
@@ -68,6 +70,7 @@ Responsible of administrate customer accounts, consultancy services and configur
 * Firefox OS introduction and new features - Universidad Tecnológica de Panamá (2014)
 * Web APIs introduction in Firefox OS - Web App Weekends (2014)
 * Firefox OS introduction - Universidad Tecnológica de Panamá (2013)
+
 ---
 
 ### Awards & Recognitions
