@@ -7,27 +7,33 @@
 alexanderarmuelles@riseup.net<br>
 +507 6385-5846<br>
 https://github.com/kurai021<br>
-Veraguas, Panamá
+Veraguas, Panama
 </p>
 
 
 ### Profile
-Award winning **Frontend web developer** with an eye for design. I enjoy helping agile teams with UI development based in clean and functional designs, using the latest HTML5, CSS3 and Javascripts standards and web frameworks for static web sites, client-side web apps and large scale CMS sites. Also I am a free/open source software and open web activist with a good experience as speaker.
+Award winning **Frontend web developer** with an eye for design. I enjoy helping agile teams with UI development based in clean and functional designs, using the latest HTML5, CSS3 and Javascripts standards and web frameworks for static web sites, client-side web apps and large scale CMS sites. Also I am a free/open source software and open web activist with a good experience as speaker, also a D&I (diversity and inclusion) activist with great interest in how technology and especially the web can change the reality of developing countries and different minority groups such as people with disabilities (of which I am a part), ethnic groups and people with low incomes.
 
 ### Education
-* Universidad Tecnológica de Panamá - Degree in Software Development (currently developing my graduation project).
+* Universidad Tecnológica de Panamá - Degree in Software Development.
 
 ---
 ### Technical Skills
 * HTML5
-* CSS3 via SASS and Stylus
-* JQuery, Javascript
-* Node.JS, NW.js
-* Gulp.js, Grunt
-* AngularJS
-* Wordpress, Ghost
-* Bootstrap, Foundation
+* CSS3
+* Sass
+* Javascript
+* JQuery
+* Node.JS
+* NW.js
+* Gulp.js
+* Grunt
+* Wordpress
+* Ghost
+* Bootstrap
+* Foundation
 * Cactus
+* Jekyll
 
 ### Tools
 * Atom
@@ -40,13 +46,9 @@ Award winning **Frontend web developer** with an eye for design. I enjoy helping
 ---
 ### Work and Volunteer Experience
 
-* **BlueTide IT Consulting** - Frontend web developer | 2015 - 2016
+* **BlueTide IT Consulting** - Frontend web developer | since 2015
 
 Responsible for developing different websites for panamanian companies using tools such as Cactus (a static site generator based on Jinja2 with facilities like deploying on Amazon S3) including workflows via Git and using collaborative tools like Google for business and Slack.
-
-* **IPANDETEC** - Volunteer | since 2015
-
-Responsible for developing, manage and update the site for IPANDETEC based in Cactus and hosted in Amazon S3, also I'm the community manager for this organization.
 
 * **GeoCensos** - Volunteer | 2014-2015
 
@@ -62,6 +64,8 @@ Responsible of administrate customer accounts, consultancy services and configur
 
 ---
 ### Speaker Experience
+* Mozilla's D&I strategies - ECSL Costa Rica 2017
+* A-Frame: Virtual Reality for web developers - Encuentro Centroamericano Mozilla 2017
 * Controlling sensors with Javascript and Arduino - ECSL Nicaragua 2016
 * What does Mozilla for the Net Neutrality and Privacy on the Web? - Encuentro Centroamericano Mozilla 2016
 * Do you have control of your information while you browse? - FLISoL 2016
