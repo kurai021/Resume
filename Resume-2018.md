@@ -46,7 +46,7 @@ Award winning **Frontend web developer** with an eye for design. I enjoy helping
 ---
 ### Work and Volunteer Experience
 
-* **BlueTide IT Consulting** - Frontend web developer | since 2015
+* **BlueTide IT Consulting** - Frontend web developer | 2015 - 2018
 
 Responsible for developing different websites for panamanian companies using tools such as Cactus (a static site generator based on Jinja2 with facilities like deploying on Amazon S3) including workflows via Git and using collaborative tools like Google for business and Slack.
 
