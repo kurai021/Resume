@@ -6,7 +6,7 @@
 <p style="text-align:center;">
 alexanderarmuelles@riseup.net<br>
 +507 6385-5846<br>
-https://github.com/kurai021<br>
+http://www.kurai021.com<br>
 Veraguas, Panama
 </p>
 
